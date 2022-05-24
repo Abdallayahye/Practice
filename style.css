@@ -1,0 +1,40 @@
+.all{
+    background-color: white;
+    position: absolute;
+}
+.header{
+    background-color: green;
+    text-align: center;
+    padding: 20px;
+}
+.kobaad{
+    background-color: aquamarine;
+    width: 30vw;
+    height: 50vh;
+    position: absolute;
+}
+.labaad{
+    background-color: orangered;
+    position: absolute;
+    margin-left: 379px;
+    width: 20vw;
+    height: 50vh;
+    padding-left: 100px;
+}
+.sedexaad{
+    background-color: bisque;
+    margin-left: 732px;
+    width: 20vw;
+    height: 50vhs;
+    padding-left: 21.1%;
+    padding-bottom: 15.4%;
+
+    
+    
+}
+.footer{
+    background-color: violet;
+    text-align: center;
+    margin-top: 0%;
+
+}
